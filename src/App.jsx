@@ -251,7 +251,7 @@ function App() {
   </a>
 
   <a
-    href="YOUR_GITHUB_REPO_LINK"
+    href="https://github.com/gtharunkumar148026-dotcom/travelexplore"
     target="_blank"
     rel="noopener noreferrer"
     className="btn btn-outline-custom"
