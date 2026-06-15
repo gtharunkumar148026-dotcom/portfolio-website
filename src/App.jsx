@@ -232,16 +232,34 @@ function App() {
 
                 <img src="https://images.unsplash.com/photo-1488646953014-85cb44e25828?q=80&w=2070&auto=format&fit=crop" />
 
-                <div className="project-content">
+               <div className="project-content">
 
-                  <h4>Travel Explore</h4>
+  <h4>Travel Explore</h4>
 
-                  <p>
-                    Travel information platform built using
-                    Node.js, MongoDB, and Bootstrap.
-                  </p>
+  <p>
+    Full-stack travel platform with authentication,
+    destination search, history tracking, and MongoDB integration.
+  </p>
 
-                </div>
+  <a
+    href="https://travelexplore.onrender.com/"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="btn btn-primary-custom me-2"
+  >
+    Live Demo
+  </a>
+
+  <a
+    href="YOUR_GITHUB_REPO_LINK"
+    target="_blank"
+    rel="noopener noreferrer"
+    className="btn btn-outline-custom"
+  >
+    GitHub
+  </a>
+
+</div>
 
               </div>
 
